@@ -1,16 +1,53 @@
 ## Hi there 👋
 
-<!--
-**Laxmi-sikarwar/Laxmi-sikarwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Laxmi Sikarwar
 
-Here are some ideas to get you started:
+🎓 BTech Graduate (2024)  
+💻 Aspiring Frontend Developer  
+🚀 Learning MERN Stack + AI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+- 🌱 Currently learning: React, Next.js, MongoDB
+- 💡 Interested in: Frontend Development & UI/UX
+- 🎯 Goal: Work at top MNC like Google
+- ⚡ Fun fact: I love building creative UI designs
+
+---
+
+## 🛠️ Tech Stack
+
+- 💻 Frontend: HTML, CSS, JavaScript, React, Tailwind
+- ⚙️ Backend: Node.js, Express
+- 🗄️ Database: MongoDB
+- 🛠️ Tools: Git, GitHub, VS Code, Bun
+
+---
+
+## 🚀 Projects
+
+### 🔹 Portfolio Website
+- Built using React + Tailwind
+- Responsive UI design
+
+### 🔹 HMS Microservices Project
+- Built using Node.js + Express
+- Auth Service, Role & Permission system
+
+---
+
+## 📊 GitHub Stats
+
+![Laxmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 📫 Connect with me
+
+- 💼 LinkedIn: (add your link)
+- 📧 Email: laxmisikarwar14@gmail.com
+
+---
+
+⭐️ From Laxmi Sikarwar
