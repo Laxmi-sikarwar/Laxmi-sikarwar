@@ -1,13 +1,11 @@
-<!-- HEADER BANNER -->
+<!-- HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Full%20Stack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- NAME -->
 <h1 align="center">👋 Hi, I'm Laxmi Sikarwar</h1>
 <h3 align="center">🚀 MERN Stack Developer | 2+ Years Experience</h3>
 
-<!-- TYPING -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=764ba2&size=22&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Clean+Code+%7C+Modern+UI;Full+Stack+Developer" />
 </p>
@@ -39,9 +37,19 @@
 
 ## 🚀 Projects
 
+💼 **CRM System (Customer Relationship Management)**  
+→ Manage customers, leads & sales pipeline  
+→ Role-based dashboard & authentication  
+→ Built with MERN stack  
+
+🏢 **ERP System (Enterprise Resource Planning)**  
+→ Modules for HR, inventory & operations  
+→ Scalable backend with secure APIs  
+→ Optimized for real-world business use  
+
 🌟 **Portfolio Website**  
-→ React + Tailwind  
-→ Fully responsive UI  
+→ React + Tailwind based UI  
+→ Fully responsive design  
 
 🏥 **HMS Microservices System**  
 → Node.js + Express backend  
@@ -80,7 +88,6 @@
 
 ---
 
-<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
 </p>
