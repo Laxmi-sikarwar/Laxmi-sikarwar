@@ -1,15 +1,15 @@
-<!-- FULL WIDTH BANNER -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Laxmi%20Sikarwar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&width=100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Full%20Stack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- NAME + TITLE -->
-<h1 align="center">👩‍💻 Laxmi Sikarwar</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | 2+ Years Experience</h3>
+<!-- NAME -->
+<h1 align="center">👋 Hi, I'm Laxmi Sikarwar</h1>
+<h3 align="center">🚀 MERN Stack Developer | 2+ Years Experience</h3>
 
-<!-- TYPING EFFECT -->
+<!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8E2DE2&size=24&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Clean+Code+%7C+Modern+UI;Passionate+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=764ba2&size=22&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Clean+Code+%7C+Modern+UI;Full+Stack+Developer" />
 </p>
 
 ---
@@ -17,26 +17,22 @@
 ## 🌟 About Me
 
 💻 Full Stack Developer with **2+ years experience**  
-⚡ Specialized in **MERN Stack Development**  
-🎯 Focused on performance, scalability & UI/UX  
-🔥 Building real-world production-ready applications  
+⚡ Specialized in **MERN Stack**  
+🎯 Focused on scalable backend + clean frontend UI  
+✨ Passionate about building real-world applications  
 
 ---
 
-## 🛠️ Core Skills (Highlighted)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20JS%20%7C%20Tailwind-00C853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database-MongoDB-4CAF50?style=for-the-badge"/>
-</p>
-
----
-
-## 🎨 Tech Stack
+## 🛠️ Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN%20Stack-Expert-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-Advanced-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microservices-Intermediate-FF7043?style=for-the-badge"/>
 </p>
 
 ---
@@ -44,11 +40,11 @@
 ## 🚀 Projects
 
 🌟 **Portfolio Website**  
-→ Modern UI using React + Tailwind  
-→ Fully responsive & optimized  
+→ React + Tailwind  
+→ Fully responsive UI  
 
 🏥 **HMS Microservices System**  
-→ Scalable backend architecture  
+→ Node.js + Express backend  
 → Auth, Role & Permission system  
 
 ---
@@ -66,7 +62,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/laxmi-sikarwar-56892826b">
-    <img src="https://img.shields.io/badge/LinkedIn-Laxmi%20Sikarwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -79,12 +75,12 @@
 ## 🔥 Developer Quote
 
 <p align="center">
-  💬 <i>"I build scalable apps with clean code & beautiful UI."</i>
+  💬 <i>"Code smart. Build scalable. Stay consistent."</i>
 </p>
 
 ---
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
 </p>
