@@ -1,38 +1,48 @@
 <h1 align="center">Hi 👋, I'm Laxmi Sikarwar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Learner;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;2%2B+Years+Experience;MERN+Stack+Engineer;Building+Scalable+Web+Apps" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 💼 Professional Summary
 
-💻 Passionate Frontend Developer  
-🎓 BTech Graduate (2024)  
-🌱 Currently learning **React, Next.js & Advanced MongoDB**  
-🎯 Goal: Crack top MNCs like Google  
-✨ Love creating clean UI & smooth UX  
+💻 Full Stack Developer with **2+ years of experience**  
+🚀 Skilled in building scalable web applications using MERN stack  
+🎯 Focused on performance, clean architecture & user experience  
+✨ Passionate about solving real-world problems with code  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
 </p>
+
+---
+
+## 🚀 What I Do
+
+✔️ Build responsive and modern frontend using React & Tailwind  
+✔️ Develop REST APIs with Node.js & Express  
+✔️ Design scalable backend architectures (Microservices)  
+✔️ Work with MongoDB for efficient data handling  
+✔️ Write clean, maintainable & production-ready code  
 
 ---
 
 ## 🌟 Projects
 
-🚀 **Portfolio Website**  
-→ Built with React + Tailwind  
-→ Fully responsive & modern UI  
+🔹 **Portfolio Website**  
+→ React + Tailwind based modern UI  
+→ Optimized for performance & responsiveness  
 
-🏥 **HMS Microservices**  
-→ Node.js based backend system  
-→ Auth, Role & Permission system  
+🔹 **HMS Microservices System**  
+→ Backend built using Node.js & Express  
+→ Role-based authentication & authorization  
+→ Scalable microservices architecture  
 
 ---
 
@@ -58,12 +68,12 @@
 
 ---
 
-## 🔥 Developer Quote
+## 🔥 Developer Mindset
 
 <p align="center">
-  💬 <i>"I turn ideas into beautiful and scalable web applications."</i>
+  💬 <i>"Code. Debug. Optimize. Repeat."</i>
 </p>
 
 ---
 
-<p align="center">⭐️ Thanks for visiting my profile!</p>
+<p align="center">⭐️ Open to opportunities & collaborations</p>
