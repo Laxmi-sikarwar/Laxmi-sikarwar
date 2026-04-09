@@ -1,67 +1,69 @@
-# ✨ Hey, I'm Laxmi Sikarwar 👋
+<h1 align="center">Hi 👋, I'm Laxmi Sikarwar</h1>
 
-🎓 BTech Graduate (2024)  
-💻 Aspiring Frontend Developer  
-🚀 MERN Stack + AI Enthusiast  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Learner;Future+Software+Engineer" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-✨ Passionate about building modern and responsive web apps  
+💻 Passionate Frontend Developer  
+🎓 BTech Graduate (2024)  
 🌱 Currently learning **React, Next.js & Advanced MongoDB**  
-🎯 Goal: To work at top tech companies like Google  
-💡 Love creating clean UI & smooth user experience  
+🎯 Goal: Crack top MNCs like Google  
+✨ Love creating clean UI & smooth UX  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👩‍💻 Frontend
-HTML • CSS • JavaScript • React • Tailwind CSS  
-
-### ⚙️ Backend
-Node.js • Express.js  
-
-### 🗄️ Database
-MongoDB  
-
-### 🧰 Tools
-Git • GitHub • VS Code • Bun  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode" />
+</p>
 
 ---
 
 ## 🌟 Projects
 
-### 🔹 Portfolio Website
-✨ Responsive personal portfolio  
-⚡ Built with React + Tailwind  
+🚀 **Portfolio Website**  
+→ Built with React + Tailwind  
+→ Fully responsive & modern UI  
 
-### 🔹 HMS Microservices
-🏥 Backend system using microservices  
-🔐 Auth, Role & Permission system  
+🏥 **HMS Microservices**  
+→ Node.js based backend system  
+→ Auth, Role & Permission system  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: (Add your link)  
-📧 Email: laxmisikarwar14@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/laxmi-sikarwar-56892826b">
+    <img src="https://img.shields.io/badge/LinkedIn-Laxmi%20Sikarwar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+📧 **Email:** laxmisikarwar14@gmail.com  
 
 ---
 
-## 🔥 Fun Fact
+## 🔥 Developer Quote
 
-💬 "I turn ideas into beautiful web experiences"
+<p align="center">
+  💬 <i>"I turn ideas into beautiful and scalable web applications."</i>
+</p>
 
 ---
 
-⭐️ Thanks for visiting my profile!
+<p align="center">⭐️ Thanks for visiting my profile!</p>
