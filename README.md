@@ -1,9 +1,8 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Full%20Stack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hi%20I'm%20Laxmi%20Sikarwar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Laxmi Sikarwar</h1>
 <h3 align="center">🚀 MERN Stack Developer | 2+ Years Experience</h3>
 
 <p align="center">
