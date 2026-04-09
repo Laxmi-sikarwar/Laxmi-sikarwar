@@ -1,53 +1,67 @@
-## Hi there 👋
-
-# Hi 👋, I'm Laxmi Sikarwar
+# ✨ Hey, I'm Laxmi Sikarwar 👋
 
 🎓 BTech Graduate (2024)  
 💻 Aspiring Frontend Developer  
-🚀 Learning MERN Stack + AI  
+🚀 MERN Stack + AI Enthusiast  
 
 ---
 
-## 🌟 About Me
-- 🌱 Currently learning: React, Next.js, MongoDB
-- 💡 Interested in: Frontend Development & UI/UX
-- 🎯 Goal: Work at top MNC like Google
-- ⚡ Fun fact: I love building creative UI designs
+## 🚀 About Me
+
+✨ Passionate about building modern and responsive web apps  
+🌱 Currently learning **React, Next.js & Advanced MongoDB**  
+🎯 Goal: To work at top tech companies like Google  
+💡 Love creating clean UI & smooth user experience  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- 💻 Frontend: HTML, CSS, JavaScript, React, Tailwind
-- ⚙️ Backend: Node.js, Express
-- 🗄️ Database: MongoDB
-- 🛠️ Tools: Git, GitHub, VS Code, Bun
+### 👩‍💻 Frontend
+HTML • CSS • JavaScript • React • Tailwind CSS  
+
+### ⚙️ Backend
+Node.js • Express.js  
+
+### 🗄️ Database
+MongoDB  
+
+### 🧰 Tools
+Git • GitHub • VS Code • Bun  
 
 ---
 
-## 🚀 Projects
+## 🌟 Projects
 
 ### 🔹 Portfolio Website
-- Built using React + Tailwind
-- Responsive UI design
+✨ Responsive personal portfolio  
+⚡ Built with React + Tailwind  
 
-### 🔹 HMS Microservices Project
-- Built using Node.js + Express
-- Auth Service, Role & Permission system
+### 🔹 HMS Microservices
+🏥 Backend system using microservices  
+🔐 Auth, Role & Permission system  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Laxmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
 
 ---
 
-## 📫 Connect with me
+## 🌐 Connect With Me
 
-- 💼 LinkedIn: (add your link)
-- 📧 Email: laxmisikarwar14@gmail.com
+💼 LinkedIn: (Add your link)  
+📧 Email: laxmisikarwar14@gmail.com  
 
 ---
 
-⭐️ From Laxmi Sikarwar
+## 🔥 Fun Fact
+
+💬 "I turn ideas into beautiful web experiences"
+
+---
+
+⭐️ Thanks for visiting my profile!
